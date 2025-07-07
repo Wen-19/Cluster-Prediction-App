@@ -17,7 +17,7 @@ st.markdown(
 )
 
 # Load the clustered Excel dataset
-df = pd.read_excel("C:\\Users\\wenwa\\Downloads\\Clustering\\customers_with_clusters.xlsx")
+df = pd.read_excel("C:/Users/wenwa/Downloads/Clustering/customers_with_clusters.xlsx")
 
 # Showing a colorful scatter plot of the clusters
 st.subheader("Customer Clusters")
